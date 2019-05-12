@@ -1,0 +1,48 @@
+
+
+body{
+    width:50%;
+    background-color: red;
+    margin: 0 auto;
+    border: 1px solid rgb(241, 241, 241);
+    padding: 10px;
+
+}
+
+h3{
+    border-bottom:2px solid black;
+    border-radius:5px;
+
+}
+
+img.kadhu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+.redondo{
+    width: auto;
+    height: auto;
+    color: #fff;
+    background-color: black;
+    border-radius: 100%;
+}
+.imagem{
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+}
+.borda{
+    border-top: 2px solid white;
+}
+h1, h3, p, h4, ul,h5, footer{
+    color: #fff
+
+}
+
+hearder{ 
+    border-bottom: 5px solid black;
+}
+
